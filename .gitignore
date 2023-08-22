@@ -1,0 +1,12 @@
+*.pyc
+*.pth
+*.tar
+*.zip
+*.ipynb
+.vscode
+.ipynb_checkpoints/
+**/__pycache__/**
+logs
+data
+checkpoints/
+*.out
